@@ -1,4 +1,4 @@
-all_cards = [(s,n) for s in ["S","H","D","C"] for n in range(1,14)]
+all_cards = [(s,n) for s in ["S","H","C","D"] for n in range(1,14)]
 #for_inで配列代入
 n = int(input())
 hold_cards = [] #空のリスト
